@@ -107,6 +107,5 @@ After some fine-tuning the model reach accuracy score of 67.30%.
 Even though the model reached the required criteria it might not be the best model for this dataset.
 The loss score for that model is still about 60%, what is quite high.
 Dataset that we were working on seemed good fit because of the length of the dataset and its complexity, even though the results weren't the best. By adding new input values seemed a good choice when improving the model accuracy.
-Within this case I would consider adding more input values (if there are available in the original dataset, for example). Another thing we could do, is to consider gathering more data.
-We need to gather more data, though its not always an easy decision it is very necessary.
+Within this case I would consider adding more input values (if there are available in the original dataset, for example). 
 
