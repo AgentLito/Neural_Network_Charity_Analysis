@@ -71,8 +71,8 @@ Figure 1: Defining a Model.
 
 Were you able to achieve the target model performance?
 
-Yes. After few configurations we achieve the target model performance.
-The model accuracy was before optimization 72.41%. Figures below show accuracy score after optimization at 76.30% and before optimization at 72.41%.
+Yes we were able to acheive the target model performance. After few configurations we achieve the target model performance.
+The model accuracy was before optimization 72.41%. Figures below show accuracy score after optimization at 76.30% 
 
 
 Figure 2: Accuracy After Optimization.
@@ -106,6 +106,5 @@ Recommendation for further analysis
 After some fine-tuning the model reach accuracy score of 67.30%.
 Even though the model reached the required criteria it might not be the best model for this dataset.
 The loss score for that model is still about 60%, what is quite high.
-Dataset that we were working on seemed good fit because of the length of the dataset and its complexity, even though the results weren't the best. By adding new input values seemed a good choice when improving the model accuracy.
-Within this case I would consider adding more input values (if there are available in the original dataset, for example). 
+Dataset that we were working on was good fit because of the length of the dataset and its complexity, even though the results weren't the best. 
 
